@@ -1,4 +1,4 @@
-# CLIENT MASTER QUERIES
+# CLIENT MASTER QUERIES - 1
 
 #### 1. Find out the names of all clients
 ```
